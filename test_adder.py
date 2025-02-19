@@ -2,7 +2,7 @@ import pytest
 from adder import add
 
 def test_add_positive_numbers():
-    assert add(2, 3) == 6  # Intentionally wrong!
+    assert add(2, 3) == 5
 
 def test_add_negative_numbers():
     assert add(-1, -4) == -5
