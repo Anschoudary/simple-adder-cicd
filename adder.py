@@ -2,6 +2,7 @@ def add(x, y):
     """Adds two numbers."""
     return x + y
 
+
 if __name__ == "__main__":
     num1 = 5
     num2 = 3
